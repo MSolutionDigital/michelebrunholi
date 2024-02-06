@@ -1,9 +1,9 @@
 {
  "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
- "name": "Studio Michele Brunholi - Tour Virtual 360°",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
+ "name": "Studio Michele Brunholi - Tour Virtual 360°",
+ "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
  "description": "Rua João Felicio dos santos, 204 - Valo Velho, São Paulo - SP",
  "icons": [
   {
